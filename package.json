@@ -1,0 +1,9 @@
+{
+  "name": "cmacc-lib-nl",
+  "version": "1.0.0",
+  "description": "library for Dutch formats",
+  "main": "index.js",
+  "author": "Marc Dangeard",
+  "license": "MIT",
+  "flat": "true"
+}
