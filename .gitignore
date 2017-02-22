@@ -1,0 +1,4 @@
+/node_modules
+yarn.lock
+*.html
+*.pdf

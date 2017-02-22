@@ -1,0 +1,13 @@
+$ adr = [yarn://cmacc-lib-geo/country/state/county/city/street/streetnum/_geo.cmacc];
+
+$ full_Name = "";
+
+$ dear_Name = "";
+
+$ entity_a = "";
+
+$ adr_Type = "";
+
+$ sign_Rep_Title = "";
+
+$ sign_Rep = [yarn://cmacc-lib-id/_individual.cmacc];
