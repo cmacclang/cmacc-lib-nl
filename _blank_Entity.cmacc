@@ -1,4 +1,4 @@
-$ adr = [yarn://cmacc-lib-geo/country/state/county/city/street/streetnum/_geo.cmacc]
+$ adr = [github://cmacclang/cmacc-lib-geo/dev/country/state/county/city/street/streetnum/_geo.cmacc]
 
 $ full_Name = ""
 
@@ -10,4 +10,4 @@ $ adr_Type = ""
 
 $ sign_Rep_Title = ""
 
-$ sign_Rep = [yarn://cmacc-lib-id/_individual.cmacc]
+$ sign_Rep = [github.com/cmacclang/cmacc-lib-id/dev/_individual.cmacc]

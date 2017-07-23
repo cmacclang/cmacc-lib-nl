@@ -1,4 +1,4 @@
-$ entity = [yarn://cmacc-lib-id/_individual.cmacc]
+$ entity = [github://cmacclang/cmacc-lib-geo/dev/country/state/county/city/street/streetnum/_geo.cmacc]
 
 $ adr_12 = [./_adr_12.cmacc]
 $ adr_12.adr" : entity.adr
