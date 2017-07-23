@@ -1,7 +1,6 @@
-$ entity = [yarn://cmacc-lib-id/_individual.cmacc];
+$ entity = [yarn://cmacc-lib-id/_individual.cmacc]
 
-$ adr_12 = [./_adr_12.cmacc] => {
-	"adr" : entity.adr
-};
+$ adr_12 = [./_adr_12.cmacc]
+$ adr_12.adr" : entity.adr
 
 {{entity.full_Name}}, dont {{entity.adr_Type}} se trouve à {{adr_12}}
