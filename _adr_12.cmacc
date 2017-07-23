@@ -1,3 +1,3 @@
-$ adr = [github://cmacclang/cmacc-lib-geo/dev/country/state/county/city/street/streetnum/_geo.cmacc]
+$ adr = [github:///cmacclang/cmacc-lib-geo/dev/country/state/county/city/street/streetnum/_geo.cmacc]
 
 {{adr.street.name}} {{adr.streetnum}}, {{adr.zip}} {{adr.street.city.name}}
