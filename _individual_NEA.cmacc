@@ -1,6 +1,6 @@
-$ entity = [github:///cmacclang/cmacc-lib-geo/dev/country/state/county/city/street/streetnum/_geo.cmacc]
+$ entity = [github.com:///cmacclang/cmacc-lib-id/dev/_individual.cmacc]
 
 $ adr_12 = [./_adr_12.cmacc]
-$ adr_12.adr" : entity.adr
+$ adr_12.adr = entity.adr
 
 {{entity.full_Name}}, dont {{entity.adr_Type}} se trouve à {{adr_12}}
