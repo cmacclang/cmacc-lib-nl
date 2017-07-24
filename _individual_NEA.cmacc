@@ -1,4 +1,4 @@
-$ entity = [github.com:///cmacclang/cmacc-lib-id/dev/_individual.cmacc]
+$ entity = [github:///cmacclang/cmacc-lib-id/dev/_individual.cmacc]
 
 $ adr_12 = [./_adr_12.cmacc]
 $ adr_12.adr = entity.adr
