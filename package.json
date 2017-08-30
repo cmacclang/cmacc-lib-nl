@@ -1,13 +1,14 @@
 {
   "name": "cmacc-lib-nl",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "library for Dutch formats",
   "main": "index.js",
   "author": "Marc Dangeard",
   "license": "MIT",
   "flat": "true",
   "dependencies": {
-    "cmacc-lib-geo": "cmacclang/cmacc-lib-geo#v2.0.1",
-    "cmacc-lib-id": "cmacclang/cmacc-lib-id#v2.0.0"
+    "cmacc-lib-geo": "cmacclang/cmacc-lib-geo",
+    "cmacc-lib-id": "cmacclang/cmacc-lib-id",
+    "cmacc-lib-lang": "cmacclang/cmacc-lib-lang"  
   }
 }
